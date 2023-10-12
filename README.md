@@ -24,7 +24,7 @@ How It Works
 * API Integration: The app integrates with a weather API to fetch real-time weather data based on the user's input.
 * Display Update: Upon receiving the weather data from the API, the JavaScript code updates the UI elements, displaying the city name, temperature, weather description, and weather icon.
 
-Installation
+Installation:
 There is no installation required for this web app. Simply open the index.html file in a web browser to start using the Weather App.
 
 Files Included
